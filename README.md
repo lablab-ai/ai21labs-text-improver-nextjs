@@ -57,7 +57,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ### Relevant links
 - [Nextjs Documentation](https://nextjs.org/docs)
-- [Co:here tech page](https://lablab.ai/t/cohere)
+- [AI21Labs Tech page](https://lablab.ai/tech/ai21-labs)
 
 ---
 
