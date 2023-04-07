@@ -50,8 +50,9 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+![image](https://user-images.githubusercontent.com/37478782/230585331-08ed1209-0ee3-41fe-b81f-1957e82919d5.png)
 
-![image](https://user-images.githubusercontent.com/64021988/193026220-f9110932-01e2-4ea4-8afd-7810310750bd.png)
+
 
 
 ### Relevant links
