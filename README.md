@@ -1,6 +1,5 @@
 # AI21 Labs Text Improver
 
-Nextjs boilerplate for Co:here generate API ready to deploy on Vercel. Visit our [Co:here](https://lablab.ai/tech/cohere) page for more starters, tutorials, hackathons and projects built on Co:here API. Demo: https://nextjs-cohere-boilerplate.vercel.app/
 
 ## How to use this repository? 
 
